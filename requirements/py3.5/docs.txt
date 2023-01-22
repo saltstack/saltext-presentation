@@ -39,5 +39,5 @@ sphinxcontrib-spelling==7.1.0
 text-unidecode==1.3       # via python-slugify
 typing-extensions==3.7.4.3  # via importlib-metadata
 unidecode==1.2.0          # via python-slugify
-urllib3==1.26.4           # via requests
+urllib3==1.26.5           # via requests
 zipp==3.4.1               # via importlib-metadata
