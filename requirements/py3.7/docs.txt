@@ -15,7 +15,7 @@ idna==2.10                # via requests
 imagesize==1.2.0          # via sphinx
 importlib-metadata==3.7.3 ; python_version < "3.8"
 jinja2==2.11.3            # via sphinx
-lxml==4.6.5               # via sphinx-material-saltstack
+lxml==4.9.1               # via sphinx-material-saltstack
 markupsafe==1.1.1         # via jinja2
 packaging==20.9           # via sphinx
 pyenchant==3.2.0          # via sphinxcontrib-spelling
