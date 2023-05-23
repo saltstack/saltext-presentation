@@ -22,7 +22,7 @@ pygments==2.8.1           # via sphinx, sphinx-prompt
 pyparsing==2.4.7          # via packaging
 python-slugify[unidecode]==4.0.1  # via sphinx-material-saltstack
 pytz==2021.1              # via babel
-requests==2.25.1          # via sphinx
+requests==2.31.0          # via sphinx
 snowballstemmer==2.1.0    # via sphinx
 soupsieve==2.2.1          # via beautifulsoup4
 sphinx-material-saltstack==1.0.5
